@@ -8,6 +8,7 @@ const names = [
     "Mr. Hakim"
 ];
 
+
 const gentleMen = names.filter(
     function (name) {
         if (name.includes("Mr.")) {
